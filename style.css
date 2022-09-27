@@ -1,0 +1,237 @@
+.all{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@font-face {
+    font-family: "Hanna";
+    src: url("./BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+#logo{
+    position: relative;
+    font-family: "Hanna";
+    left: -25px;
+}
+#loca{
+    position: relative;
+    left: 150px;
+    bottom: 60px;
+}
+#scNa{
+    position: relative;
+    left: -80px;
+    bottom: 50px;
+}
+.button{
+    position: relative;
+    display: flex;
+    bottom: 45px;
+    right: 90px;
+}
+
+.button a {
+    padding: 5px 30px;
+    font-size: 18px;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    border-radius: 15px;
+}
+
+.button2{
+    position: relative;
+    display: flex;
+    bottom: 50px;
+    top: -135px;
+    left: 90px;
+}
+
+.button2 a {
+    padding: 5px 30px;
+    font-size: 18px;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    border-radius: 15px;
+}
+
+.logoPic{
+    position: relative;
+    right: 160px;
+    bottom: 330px;
+}
+
+.줄{
+    position: relative;
+    bottom: 315px;
+}
+
+.je{
+    position: relative;
+    bottom: 210px;
+    right: 100px;
+}
+
+.test{
+    box-shadow: 1px 2px 5px 1px #4198a3;
+}
+
+.test{
+    width: 350px;
+    position: relative;
+    bottom: 215px;
+    border-radius: 15px;
+    height: 100px;
+}
+#asd{
+    position: relative;
+    right: 120px;
+}
+
+.test h3, p{
+    float: right;
+}
+
+.food1{
+    position: relative;
+    bottom: 310px;
+    right: 120px;
+}
+
+.test2{
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    width: 350px;
+    position: relative;
+    bottom: 293px;
+    border-radius: 15px;
+    height: 100px;
+}
+
+#asd2{
+    position: relative;
+    left: 120px;
+}
+
+.food2{
+    position: relative;
+    bottom: 388px;
+    right: 120px;
+}
+
+.test3{
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    width: 350px;
+    position: relative;
+    bottom: 355px;
+    border-radius: 15px;
+    height: 100px;
+}
+
+#asd3{
+    position: relative;
+    left: 120px;
+}
+
+.food3{
+    position: relative;
+    bottom: 450px;
+    right: 120px;
+}
+
+.test4{
+    position: relative;
+    bottom: 445px;
+}
+.era{
+    position: relative;
+    bottom: 1080px;
+    left: 130px;
+}
+.b1{
+    position: relative;
+    bottom: 471px;
+}
+.b2{
+    position: relative;
+    bottom: 550px;
+}
+
+.c1{
+    position: relative;
+    bottom: 550px;
+    right: 130px;
+}
+
+.c2{
+    position: relative;
+    bottom: 605px;
+}
+.c3{
+    position: relative;
+    bottom: 665px;
+    left: 130px;
+}
+.d1{
+    position: relative;
+    font-family: "Hanna";
+    font-size: 17px;
+    bottom: 1362px;
+    right: 90px;
+}
+.d2{
+    position: relative;
+    font-family: "Hanna";
+    bottom: 1442px;
+    font-size: 17px;
+    right: -90px;
+}
+.d3{
+    position: relative;
+    bottom: 1222px;
+    right: 90px;
+}
+.d4{
+    position: relative;
+    bottom: 1292px;
+    right: -90px;
+}
+
+.q1{
+    position: relative;
+    bottom: 1538px;
+    right: 90px;
+}
+.q2{
+    position: relative;
+    bottom: 1647px;
+    right: -90px;
+}
+.d5{
+    position: relative;
+    bottom: 1367px;
+}
+.d6{
+    position: relative;
+    bottom: 1500px;
+}
+.d7{
+    position: relative;
+    bottom: 1496px;
+}
+.d8{
+    position: relative;
+    bottom: 1825px;
+    right: 8px;
+}
+.d9{
+    position: relative;
+    bottom: 1855px;
+}
+.d10{
+    position: relative;
+    bottom: 1815px;
+    right: 8px;
+}
+.d11{
+    position: relative;
+    bottom: 1845px;
+}

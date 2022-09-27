@@ -1,0 +1,95 @@
+.all{
+
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        bottom: 10px;
+        top: 5px;
+
+}
+
+.main{
+    position: relative;
+    right: 130px;
+    top: 7px;
+}
+
+@font-face {
+    font-family: "Hanna";
+    src: url("../BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+
+.ex{
+    position: relative;
+    left: 10px;
+    font-family: "Hanna";
+    bottom: 130px;
+}
+
+.te{
+    position: relative;
+    left: 15px;
+    bottom: 130px;
+}
+.te p{
+    margin: 0;
+}
+
+.line{
+    position: relative;
+    bottom: 130px;
+}
+
+.best{
+    position: relative;
+    font-family: "Hanna";
+    bottom: 140px;
+}
+
+.no{
+    position: relative;
+    bottom: 140px;
+}
+
+.foodPic2{
+    position: relative;
+    bottom: 615px;
+    right: 120px;
+}
+.foodPic3{
+    position: relative;
+    bottom: 585px;
+    right: 120px;
+}
+.foodPic4{
+    position: relative;
+    bottom: 557px;
+    right: 120px;
+}
+.foodPic5{
+    position: relative;
+    bottom: 527px;
+    right: 120px;
+}
+
+.oh{
+    position: relative;
+    bottom: 1043px;
+    left: 15px;
+}
+
+.oh h3{
+    padding: 40px;
+    font-family: "Hanna";
+}
+
+.exP{
+    position: relative;
+    bottom: 1500px;
+    left: 20px;
+}
+.exP p{
+    padding: 30px;
+}

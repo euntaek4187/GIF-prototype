@@ -1,0 +1,31 @@
+.all{
+    position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        bottom: 10px;
+}
+
+@font-face {
+    font-family: "Hanna";
+    src: url("../BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+
+.a1{
+    position: relative;
+    font-family: "Hanna";
+}
+
+.test{
+    position: relative;
+    bottom: 250px;
+}
+
+#test2{
+    position: relative;
+    font-family: "Hanna";
+    font-size: 50px;
+    bottom: 135px;
+    left: 60px;
+}

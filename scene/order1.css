@@ -1,0 +1,52 @@
+.order1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    bottom: 10px;
+}
+
+@font-face {
+    font-family: "Hanna";
+    src: url("../BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+.add{
+    position: relative;
+    font-family: "Hanna";
+    font-size: 20px;
+    right: 45px;
+    top: -70px;
+}
+.addd{
+    position: relative;
+    bottom: 85px;
+}
+
+.ad{
+    position: relative;
+    bottom: 90px;
+}
+
+.ad img{
+    position: relative;
+    align-items: center;
+}
+
+.cate{
+    position: relative;
+    font-family: "Hanna";
+    font-size: 25px;
+    right: 130px;
+    bottom: 15px;
+}
+
+.sebu{
+    position: relative;
+    bottom: 35px;
+}
+
+.line{
+    position: relative;
+    bottom: 55px;
+}

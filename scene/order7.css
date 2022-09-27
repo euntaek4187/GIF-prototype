@@ -1,0 +1,77 @@
+.all{
+    position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        bottom: 10px;
+}
+
+@font-face {
+    font-family: "Hanna";
+    src: url("../BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+
+.a1{
+    position: relative;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    font-family: "Hanna";
+    border-radius: 20px;
+    bottom: 530px;
+    left: 70px;
+    width: 200px;
+}
+#aa{
+    position: relative;
+    left: 12px;
+}
+
+#bb{
+    position: relative;
+    left: 80px;
+}
+
+.a2{
+    position: relative;
+    font-family: "Hanna";
+    bottom: 275px;
+    right: 60px;
+}
+
+.a3{
+    position: relative;
+    bottom: 810px;
+    right: 115px;
+}
+
+.a4{
+    font-family: "Hanna";
+    position: relative;
+    bottom: 700px;
+}
+#a11{
+    position: relative;
+    bottom: 92px;
+    right: 88px;
+}
+#a22{
+    position: relative;
+    bottom: 55px;
+    right: 25px;
+}
+#a33{
+    position: relative;
+    bottom: 10px;
+    right: -35px;
+}
+#a44{
+    position: relative;
+    bottom: -20px;
+    right: -115px;
+}
+
+.a5{
+    position: relative;
+    bottom: 610px;
+    right: 83px;
+}
