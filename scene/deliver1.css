@@ -71,3 +71,100 @@
     bottom: 780px;
     right: 125px;
 }
+
+.one{
+    position: relative;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    border-radius: 15px;
+    bottom: 40px;
+    width: 350px;
+    height: 150px;
+    font-family: "Hanna";
+    font-size: 20px;
+}
+.one h1{
+    position: relative;
+    left: 30px;
+}
+.one2{
+    position: relative;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    border-radius: 15px;
+    bottom: 20px;
+    width: 350px;
+    height: 150px;
+    font-family: "Hanna";
+    font-size: 20px;
+}
+.one2 h1{
+    position: relative;
+    left: 30px;
+}
+.one3{
+    position: relative;
+    box-shadow: 1px 2px 5px 1px #4198a3;
+    border-radius: 15px;
+
+    width: 350px;
+    height: 150px;
+    font-family: "Hanna";
+    font-size: 20px;
+}
+.one3 h1{
+    position: relative;
+    left: 30px;
+}
+
+
+
+
+.one-p{
+    position: relative;
+    bottom: 475px;
+    left: 100px;
+}
+.one-t{
+    position: relative;
+    bottom: 520px;
+    right: 50px;
+}
+.one-t p{
+    margin: 3px;
+}
+#one-t-red{
+    color: red;
+}
+
+.one2-p{
+    position: relative;
+    bottom: 475px;
+    left: 100px;
+}
+.one2-t{
+    position: relative;
+    bottom: 520px;
+    right: 50px;
+}
+.one2-t p{
+    margin: 3px;
+}
+#one2-t-red{
+    color: red;
+}
+
+.one3-p{
+    position: relative;
+    bottom: 475px;
+    left: 100px;
+}
+.one3-t{
+    position: relative;
+    bottom: 520px;
+    right: 50px;
+}
+.one3-t p{
+    margin: 3px;
+}
+#one3-t-red{
+    color: red;
+}

@@ -47,3 +47,21 @@
     left: 130px;
 }
 
+
+
+.talk{
+    position: relative;
+    right: 140px;
+}
+
+.home{
+    position: relative;
+    bottom: 63px;
+}
+
+.me{
+    position: relative;
+    bottom: 131px;
+    left: 140px;
+}
+
